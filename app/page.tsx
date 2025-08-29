@@ -2,6 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>He therey</div>
+    <div>
+      Creating navbar above
+    </div>
   );
 }
